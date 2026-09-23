@@ -784,6 +784,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MarkIt](https://mark-it.co) `https://mark-it.co/api/mcp`
   [![MarkIt MCP connector](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.FuzulsFriend/markit)
   🔓 - Search, save, and set reminders in your personal library of saved links, posts, and notes. OAuth sign-in unlocks all tools.
+- [MMW](https://mmwhub.tech) `https://mcp.mmwhub.tech/mcp`
+  [![MMW MCP connector](https://glama.ai/mcp/connectors/tech.mmwhub/mmw/badges/score.svg)](https://glama.ai/mcp/connectors/tech.mmwhub/mmw)
+  🔐 - Ultra-fast (<2ms) persistent memory workspace with strict tenant isolation and provenance for AI agents.
 - [Mnemoverse](https://mnemoverse.com) `https://mcp.mnemoverse.com/mcp`
   [![Mnemoverse MCP connector](https://glama.ai/mcp/connectors/io.github.mnemoverse/mcp-memory-server/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.mnemoverse/mcp-memory-server)
   🔐 - Persistent agent memory over MCP; tell it a recalled memory helped or misled and it re-ranks the next recall.
